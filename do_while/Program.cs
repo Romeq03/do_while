@@ -1,0 +1,20 @@
+﻿using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Kwadraty liczb całkowitych od 1 do 20:");
+
+        int i = 1;
+
+        do
+        {
+            int square = i * i;
+            Console.WriteLine($"{i}^2 = {square}");
+            i++;
+        } while (i <= 20);
+
+        Console.ReadLine(); // Zatrzymuje konsolę przed zamknięciem
+    }
+}

@@ -1,0 +1,14 @@
+/Users/bartekromek/wsb/do_while/do_while/bin/Debug/net8.0/do_while
+/Users/bartekromek/wsb/do_while/do_while/bin/Debug/net8.0/do_while.deps.json
+/Users/bartekromek/wsb/do_while/do_while/bin/Debug/net8.0/do_while.runtimeconfig.json
+/Users/bartekromek/wsb/do_while/do_while/bin/Debug/net8.0/do_while.dll
+/Users/bartekromek/wsb/do_while/do_while/bin/Debug/net8.0/do_while.pdb
+/Users/bartekromek/wsb/do_while/do_while/obj/Debug/net8.0/do_while.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartekromek/wsb/do_while/do_while/obj/Debug/net8.0/do_while.AssemblyInfoInputs.cache
+/Users/bartekromek/wsb/do_while/do_while/obj/Debug/net8.0/do_while.AssemblyInfo.cs
+/Users/bartekromek/wsb/do_while/do_while/obj/Debug/net8.0/do_while.csproj.CoreCompileInputs.cache
+/Users/bartekromek/wsb/do_while/do_while/obj/Debug/net8.0/do_while.dll
+/Users/bartekromek/wsb/do_while/do_while/obj/Debug/net8.0/refint/do_while.dll
+/Users/bartekromek/wsb/do_while/do_while/obj/Debug/net8.0/do_while.pdb
+/Users/bartekromek/wsb/do_while/do_while/obj/Debug/net8.0/do_while.genruntimeconfig.cache
+/Users/bartekromek/wsb/do_while/do_while/obj/Debug/net8.0/ref/do_while.dll
