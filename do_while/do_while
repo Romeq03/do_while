@@ -15,6 +15,6 @@ class Program
             i++;
         } while (i <= 20);
 
-        Console.ReadLine(); // Zatrzymuje konsolę przed zamknięciem
+        Console.ReadLine();
     }
 }
